@@ -1,0 +1,26 @@
+
+.navbar {margin-left:3%;
+}
+
+.content {max-width:90%;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+.tdLeft {width:40%;
+	text-align:left}
+
+.tdCenter {position:absolute;
+	right:30%;}
+
+.tdRight {text-align:right}
+
+.tdCenterLeft {position:absolute;
+	right:35%;}
+
+.tdCenterRight {position:absolute;
+	right:25%;}
+	
+.content-panel {padding-bottom:2%}
+
+.footer-panel{padding:1%}
